@@ -1,7 +1,6 @@
 # main links
 main:
-  - title: "Posts Archive"
-    url: https://mmistakes.github.io/minimal-mistakes/pages/archive
+
   # - title: "Posts" 
   #   url: /pages/archive_list.html
   - title: "Portfolio"
