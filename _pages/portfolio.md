@@ -27,8 +27,8 @@ gallery:
   - url: /assets/images/yawning_dogg-01.png
     image_path: assets/images/yawning_dogg-01.png
     alt: "placeholder image 3"
-  - url: /assets/images/thinking-01.png
-    image_path: assets/images/thinking-01.png
+  - url: /assets/images/girl_laughing.png
+    image_path: assets/images/girl_laughing.png
     alt: "placeholder image 3"
   - url: /assets/images/bedroom-01.png
     image_path: assets/images/bedroom-01.png
